@@ -63,10 +63,10 @@ Envía el formulario para ver la animación del spinner y la alerta de éxito.
 ---
 
 ## 📝 Aprendizajes Clave
-Validación de formularios utilizando eventos como blur y submit.
-Manipulación del DOM para mostrar mensajes dinámicos.
-Uso de expresiones regulares para validar correos electrónicos.
-Creación de objetos y comprobación de sus valores con Object.values().
+- Validación de formularios utilizando eventos como blur y submit.
+- Manipulación del DOM para mostrar mensajes dinámicos.
+- Uso de expresiones regulares para validar correos electrónicos.
+- Creación de objetos y comprobación de sus valores con Object.values().
 
 ## 🌐 Contacto
 
