@@ -38,16 +38,25 @@ Git & GitHub: Gestión de versiones y almacenamiento del proyecto.
 ---
 
 ## 📂 Estructura del Proyecto
-´´´plaintext
+```plaintext
 📁 Portafolio
 ├── index.html         (Página principal del portafolio)
 ├── estilos.css        (Estilos del proyecto)
 ├── script.js          (Lógica del formulario)
 ├── images/            (Imágenes utilizadas en el portafolio)
 └── README.md          (Archivo descriptivo del proyecto)
-´´´
-
+```
 ---
 
+## 💻 Uso del Proyecto
+Clona el Repositorio: git clone https://github.com/Cris-San/Portafolio-Basico.git
 
+Abre el Archivo index.html en tu Navegador.
 
+Interactividad del Formulario:
+
+Completa los campos: Nombre, Teléfono, Email, y Mensaje.
+Si algún campo está vacío, se mostrará un mensaje de error.
+Envía el formulario para ver la animación del spinner y la alerta de éxito.
+
+---
