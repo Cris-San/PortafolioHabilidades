@@ -29,7 +29,7 @@ Comprueba la estructura correcta del correo electrónico con expresiones regular
 
 ---
 
-🛠️ Tecnologías Implementadas
+## 🛠️ Tecnologías Implementadas
 HTML5: Estructura semántica del proyecto.
 CSS3: Estilización visual y diseño adaptable.
 JavaScript: Interactividad y manejo del DOM.
@@ -38,10 +38,16 @@ Git & GitHub: Gestión de versiones y almacenamiento del proyecto.
 ---
 
 ## 📂 Estructura del Proyecto
+´´´plaintext
 📁 Portafolio
 ├── index.html         (Página principal del portafolio)
 ├── estilos.css        (Estilos del proyecto)
 ├── script.js          (Lógica del formulario)
 ├── images/            (Imágenes utilizadas en el portafolio)
 └── README.md          (Archivo descriptivo del proyecto)
+´´´
+
+---
+
+
 
