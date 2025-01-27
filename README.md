@@ -35,6 +35,7 @@ CSS3: Estilización visual y diseño adaptable.
 JavaScript: Interactividad y manejo del DOM.
 Git & GitHub: Gestión de versiones y almacenamiento del proyecto.
 
+
 ---
 
 ## 📂 Estructura del Proyecto
@@ -60,3 +61,26 @@ Si algún campo está vacío, se mostrará un mensaje de error.
 Envía el formulario para ver la animación del spinner y la alerta de éxito.
 
 ---
+
+## 📝 Aprendizajes Clave
+Validación de formularios utilizando eventos como blur y submit.
+Manipulación del DOM para mostrar mensajes dinámicos.
+Uso de expresiones regulares para validar correos electrónicos.
+Creación de objetos y comprobación de sus valores con Object.values().
+
+## 🌐 Contacto
+
+🌐 LinkedIn: https://www.linkedin.com/in/yubercristiansanchezospina/
+
+🐙 GitHub: https://github.com/Cris-San
+
+✉️ Email: cris629.cso@gmail.com
+
+
+
+
+
+
+
+
+
