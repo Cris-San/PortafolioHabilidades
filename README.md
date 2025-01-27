@@ -16,8 +16,8 @@ Spinner de Envío:
 Botón de Reseteo:
 - Limpia todos los campos del formulario y restablece el estado inicial.
   
-- Validación de Email:
-Comprueba la estructura correcta del correo electrónico con expresiones regulares.
+Validación de Email:
+- Comprueba la estructura correcta del correo electrónico con expresiones regulares.
 
 ---
 
